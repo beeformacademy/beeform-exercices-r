@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "upstream": "https://github.com/OpenClassrooms-Student-Center/8248096-initiez-vous-a-R-pour-l-analyse-de-donnees",
+  "originalBranches": {
+    "main": "d643bdcdb8043ac657a921ffdeef2f64385296b1"
+  },
+  "sourceFilesModified": false,
+  "adaptation": "Beeform learner guide and indexed navigation; original exercises, corrections, authors and history preserved."
+}

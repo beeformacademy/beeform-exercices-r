@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "courseId": "8248096",
+  "repository": "https://github.com/beeformacademy/beeform-exercices-r",
+  "guide": "guide.html",
+  "files": [
+    ".gitignore",
+    "01_importez_donnees.qmd",
+    "02_modifez_donnees.qmd",
+    "03_exportez_donnees.qmd",
+    "8248096-initiez-vous-a-R-pour-l-analyse-de-donnees.Rproj",
+    "README.md",
+    "bonnes_pratiques.pdf",
+    "bonnes_pratiques.qmd",
+    "data_raw/mixite-dans-le-groupe-edf.csv",
+    "data_raw/mrsd_2022Wages_table1.xlsx",
+    "doc/guide_bonnes_pratiques.pdf",
+    "doc/guide_bonnes_pratiques.qmd",
+    "img/logo_oc.jpeg"
+  ],
+  "runtimeValidated": false
+}
