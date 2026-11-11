@@ -63,7 +63,7 @@ Nous repartons du texte importé sur le site [Kering Foundation](https://www.ker
 
 ```{r}
 
-install.packages(stringr)
+install.packages("stringr")
 library(stringr)
 
 # séparer les phrases

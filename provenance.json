@@ -4,6 +4,17 @@
   "originalBranches": {
     "main": "d643bdcdb8043ac657a921ffdeef2f64385296b1"
   },
-  "sourceFilesModified": false,
-  "adaptation": "Beeform learner guide and indexed navigation; original exercises, corrections, authors and history preserved."
+  "sourceFilesModified": true,
+  "adaptation": "Beeform guide and index; reviewed literal stringr package name and content-based web list selector. Original authors and history retained. Data and image assets unchanged.",
+  "corrections": [
+    {
+      "file": "02_modifez_donnees.qmd",
+      "change": "Quote stringr package name"
+    },
+    {
+      "file": "01_importez_donnees.qmd",
+      "change": "Select unique statistics list by content, reject missing or ambiguous match"
+    }
+  ],
+  "verification": "verification.json"
 }

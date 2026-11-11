@@ -1,0 +1,299 @@
+{
+  "at": "2026-11-11 17:32:48 UTC",
+  "passed": true,
+  "checks": [
+    {
+      "check": "all seven packages installed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wrong CSV separator intentionally retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 3",
+      "passed": true,
+      "detail": "Expected pedagogical read_excel before library(readxl)"
+    },
+    {
+      "check": "01_importez_donnees.qmd 4 installation name is literal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd 8 installation name is literal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 8",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 9",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd 10 installation name is literal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "01_importez_donnees.qmd block 10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd 5 installation name is literal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd 8 installation name is literal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 8",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "02_modifez_donnees.qmd block 9",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "03_exportez_donnees.qmd block 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "03_exportez_donnees.qmd 2 installation name is literal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "03_exportez_donnees.qmd block 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "03_exportez_donnees.qmd block 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "03_exportez_donnees.qmd block 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "03_exportez_donnees.qmd block 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "correct CSV has data and multiple columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "women and men Excel tables imported",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "web list uniquely matched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "former list index 2 no longer contains figures",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "correct selection contains expected figures",
+      "passed": true,
+      "detail": "Selected list 1 with 9 percentages"
+    },
+    {
+      "check": "selector rejects missing list",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "selector rejects ambiguous list",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "OCR returns text",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "output data/presence_femme_edf.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "output data/presence_femme_edf.xlsx",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "output doc/stereotype_genre.txt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "output img/centre_logo_oc_retourne.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "output img/evolution_feminisation_encadrement_edf.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel export round trip",
+      "passed": true,
+      "detail": "TRUE"
+    },
+    {
+      "check": "PNG decodes img/centre_logo_oc_retourne.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG decodes img/evolution_feminisation_encadrement_edf.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bonnes_pratiques.qmd intentional case-sensitivity error retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bonnes_pratiques.qmd correct lowercase calculation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doc/guide_bonnes_pratiques.qmd intentional case-sensitivity error retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "doc/guide_bonnes_pratiques.qmd correct lowercase calculation",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "R": "R version 4.2.2 Patched (2022-11-10 r83330)",
+  "packages": {
+    "dplyr": "1.0.10",
+    "magick": "2.7.3",
+    "readxl": "1.4.2",
+    "rvest": "1.0.3",
+    "stringr": "1.5.0",
+    "tesseract": "5.3.1",
+    "writexl": "2.0.1"
+  },
+  "scope": "Sequential R chunks in isolated container; installation calls validated and packages preinstalled. Live web fetch. No graphical RStudio UI test.",
+  "outputs": [
+    {
+      "path": "data/presence_femme_edf.csv",
+      "bytes": 6214
+    },
+    {
+      "path": "data/presence_femme_edf.xlsx",
+      "bytes": 7924
+    },
+    {
+      "path": "doc/stereotype_genre.txt",
+      "bytes": 648
+    },
+    {
+      "path": "img/centre_logo_oc_retourne.png",
+      "bytes": 38682
+    },
+    {
+      "path": "img/evolution_feminisation_encadrement_edf.png",
+      "bytes": 7013
+    }
+  ]
+}

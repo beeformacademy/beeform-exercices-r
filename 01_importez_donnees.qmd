@@ -109,7 +109,13 @@ stereotype_genre <- read_html("https://www.keringfoundation.org/fr/articles/d'eg
   html_elements("ul") |> 
   html_text()
 
-stereotype_genre_chiffres_cles <- stereotype_genre[2]
+# La position des listes peut changer : sélectionner les chiffres clés.
+indices_chiffres_cles <- which(
+  grepl("[0-9]+%", stereotype_genre) &
+  grepl("garçons", stereotype_genre, fixed = TRUE)
+)
+stopifnot(length(indices_chiffres_cles) == 1L)
+stereotype_genre_chiffres_cles <- stereotype_genre[indices_chiffres_cles]
 
 stereotype_genre_chiffres_cles
 

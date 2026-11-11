@@ -18,5 +18,7 @@
     "doc/guide_bonnes_pratiques.qmd",
     "img/logo_oc.jpeg"
   ],
-  "runtimeValidated": false
+  "runtimeValidated": true,
+  "runtimeValidationScope": "Sequential R blocks with seven preinstalled packages, UTF-8, live web fetch; 52 checks. RStudio GUI and Quarto render not tested.",
+  "verification": "verification.html"
 }
